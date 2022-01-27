@@ -1,0 +1,4 @@
+notebooks/data/*
+notebooks/output/*
+notebooks/.ipynb_checkpoints/satgpa-checkpoint.ipynb
+notebooks/corgan_ckpts/*
